@@ -1,0 +1,23 @@
+{
+  "name": "TypeScript-study14days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon --exec ts-node src/001day/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUMEIK/TypeScript-study14days.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUMEIK/TypeScript-study14days/issues"
+  },
+  "homepage": "https://github.com/GUMEIK/TypeScript-study14days#readme",
+  "dependencies": {
+    "@types/node": "^13.9.2"
+  }
+}
